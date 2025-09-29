@@ -1,0 +1,19 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #e0f7fa, #80deea);
+  text-align: center;
+}
+
+header {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  background: #00796b;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 10px;
+}

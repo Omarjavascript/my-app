@@ -1,0 +1,30 @@
+.academy-card {
+  border: 2px solid #2e7d32; /* اخضر */
+  background-color: #eaf1ea; /* نفس لون الهيدر */
+  color: rgb(30, 29, 29); /* يخلي النص واضح */
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center; /* النص في الوسط */
+  max-width: 400px;
+  margin: 20px auto; /* يخليه في النص بالصفحة */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* ظل خفيف */
+}
+
+.academy-card h1 {
+  margin: 10px 0;
+}
+
+.academy-card p {
+  font-size: 1.1rem;
+}
+
+.main-header {
+  background-color: #2ecc71; /* أخضر */
+  color: white; /* لون النص */
+  text-align: center; /* يوسّط النص */
+  padding: 20px; /* مسافة داخلية */
+  font-size: 1.8rem; /* حجم النص */
+  font-weight: bold; /* خط عريض */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); /* ظل بسيط */
+  border-bottom: 3px solid #27ae60; /* خط سفلي أغمق */
+}

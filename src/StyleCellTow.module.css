@@ -1,0 +1,13 @@
+.top-right-box {
+  position: absolute;
+  top: 80px; /* نزّل البوكس لتحت عشان ما يدخل بالهيدر */
+  right: 20px;
+
+  border: 5px solid rgb(83, 2, 2);
+
+  padding: 15px 25px;
+  border-radius: 0 10px 0 0;
+  background-color: white;
+  color: burgundy;
+  font-weight: bold;
+}

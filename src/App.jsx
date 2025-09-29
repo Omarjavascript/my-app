@@ -1,17 +1,16 @@
-function TestName() {
-  return (
-    <>
-      <h1>This is Omar App</h1>
-    </>
-  );
-}
+import EmployeeDetails from "./EmployeeDetails";
+import LastOption from "./LastOption";
+import MostRead from "./MostRead";
+
+import Tekst from "./Tekst";
 
 function App() {
   return (
     <>
-      <TestName />
-      <h1>Welcome To MY Second App</h1>
-      <h1>{TestName()}</h1>
+      <EmployeeDetails />
+      <Tekst />
+      <LastOption />
+      <MostRead />
     </>
   );
 }
